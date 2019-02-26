@@ -73,7 +73,7 @@ Entrypoint main [big] = main.js
 
 The server is running, and if you open `http://localhost:8080/` at your browser, you should see something familiar:
 
-![Hello world](images/hello_01.png)
+![Hello world](../images/hello_01.png)
 
 If you try modifying the code, you should see the output in your terminal. The browser should also perform a hard refresh on change.
 
@@ -142,7 +142,7 @@ leanpub-end-insert
 
 Run the server now (`npm start`) and break the code to see an overlay in the browser:
 
-![Error overlay](images/error-overlay.png)
+![Error overlay](../images/error-overlay.png)
 
 T> If you want even better output, consider [error-overlay-webpack-plugin](https://www.npmjs.com/package/error-overlay-webpack-plugin) as it shows the origin of the error better.
 

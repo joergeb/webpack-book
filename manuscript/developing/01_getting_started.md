@@ -138,7 +138,7 @@ Now that the configuration is done, you should try the following:
 3. Run the server using `serve` (`npm i serve -g`) or a similar command.
 4. Examine the result through a web browser. You should see something familiar there.
 
-![Hello world](images/hello_01.png)
+![Hello world](../images/hello_01.png)
 
 T> **Trailing commas** are used in the book examples on purpose as it gives cleaner diffs for the code examples.
 
